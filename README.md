@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Course Playground at UChicago (2023–2025)</h1>
+<h1 align="center">🎓 UChicago Playground (2023–2025)</h1>
 <p align="center"><em>"Efforts, Partial and Unsatisfactory"</em> at Ryerson Floor 2, UChicago</p>
 
 ### 📋 Coding-intensive Course Summary
