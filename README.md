@@ -5,9 +5,9 @@
 | Course Number         | Course Name                                 | Keywords                                      | Output                 |
 |-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
 | BUSN 32200/32810 | [Artificial Intelligence](#ta-artificial-intelligence)                     | Teaching Assistant, Reading Materials          | TA (Creating Course Materials)          |
-| CMSC 35401            | [Human-Centered AI](#human-centered-ai)                           | Human-AI Interaction, Report, Code             | Pilot Project       |
-| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    | System Design, Poster, Code, Report            | Toy Project       |
-| DATA 37784            | [Representation Learning in Machine Learning](#representation-learning-in-machine-learning)| Embedding, Latent Representation, Report, Code| Toy poject       |
+| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    |             | Pilot Project (Clinical NLP)       |
+| CMSC 35401            | [Human-Centered AI](#human-centered-ai)                           | Weak-to-Strong Generalization, Alignment             | Toy Project (Financial NLP)       |
+| DATA 37784            | [Representation Learning in Machine Learning](#representation-learning-in-machine-learning)| Model Editing, Causal Representation Learning| Toy poject (Interpretability)      |
 | CMSC 35440            | [Machine Learning in Biology and Medicine](#machine-learning-in-biology-and-medicine)                  | Applications in Biomedicine, Assignments       | Coding Assignments (Python)       |
 | STAT 31900            | [Introduction to Causal Inference](#introduction-to-causal-inference)            | Causality, Counterfactuals, Assignments        | Coding Assignments (R)        |
 | FINM 32950            | [Intro to High Performance Computing (HPC)](#introduction-to-high-performance-computing-hpc)   | Parallel Computing, Assignments                | Coding Assignments (C++)       |
