@@ -1,6 +1,19 @@
-<p align="center">🎓 Course Playground at UChicago (2023–2025)</p>
+<h1 align="center">🎓 Course Playground at UChicago (2023–2025)</h1>
 
 ---
+
+### 📋 Course Summary
+
+| Course Number         | Course Name                                 | Keywords                                      | Type                 |
+|-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
+| CMSC 35401            | Human-Centered AI                           | Human-AI Interaction, Report, Code             | Project Course       |
+| DATA 37784            | Representation Learning in Machine Learning| Embedding, Latent Representation, Report, Code| Project Course       |
+| CMSC 35200            | Deep Learning Systems                       | System Design, Poster, Code, Report            | Project Course       |
+| BUSN 32200/32810 (TA) | Artificial Intelligence                     | Teaching Assistant, Reading Materials          | TA Position          |
+| CMSC 35440            | ML in Biology and Medicine                  | Applications in Biomedicine, Assignments       | Applied Course       |
+| STAT 31900            | Introduction to Causal Inference            | Causality, Counterfactuals, Assignments        | Theory Course        |
+| FINM 32950            | Intro to High Performance Computing (HPC)   | Parallel Computing, Assignments                | Applied Course       |
+
 
 ## CMSC 35401 – Human-Centered AI  
 **Instructor:** Chenhao Tan, Department of Computer Science  
