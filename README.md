@@ -17,6 +17,7 @@
 
 ## Human-Centered AI  
 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35401/CMSC_35401_Final_report.pdf) 🔗 [💻 Code] 
+
 **Instructor:** Chenhao Tan, Department of Computer Science  
 **Title:**  
 **Abstract:**  
@@ -26,6 +27,7 @@
 
 ## Representation Learning in Machine Learning  
 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/DATA_37784/report.pdf) 🔗 [💻 Code]
+
 **Instructor:** Victor Veitch, Department of Statistics  
 **Title:**  
 **Abstract:**  
@@ -37,6 +39,7 @@
 
 ## Deep Learning Systems  
 🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/Evaluator_report_20241212.pdf) 🔗 [💻 Code]
+
 **Instructor:** Rick Stevens, Department of Computer Science  
 **Title:**  
 **Abstract:**  
@@ -45,6 +48,7 @@
 
 ## (TA) Artificial Intelligence 
 🔗 [📚 Reading Materials](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200) 
+
 **Instructor:** Dacheng Xiu, Booth School of Business  
 **Comment:**  
 
@@ -52,17 +56,20 @@
 
 ## Machine Learning in Biology and Medicine  
 🔗 [📝 Assignments]
+
 **Instructor:** Robert Grossman, Departments of Medicine & Computer Science  
 **Skill Sets:**  
 
 
 ## Introduction to Causal Inference  
 🔗 [📝 Assignments]
+
 **Instructor:** Guanglei Hong, Department of Comparative Human Development  
 **Skill Sets:**  
 
 
 ## Introduction to High Performance Computing (HPC)  
 🔗 [📝 Assignments]
+
 **Instructor:** Chanaka Liyanaarachchi, Department of Mathematics  
 **Skill Sets:**  
