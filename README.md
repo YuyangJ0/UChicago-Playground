@@ -24,7 +24,7 @@
 **Instructor:** Rick Stevens, Department of Computer Science  
 **Title:**  
 **Abstract:**  
-🔗 [🩻 Poster] 🔗 [💻 Code] 🔗 [📄 Report] 🔗 [📝 Assignments]
+🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [💻 Code] 🔗 [📄 Report] 🔗 [📝 Assignments]
 
 ---
 
