@@ -6,6 +6,7 @@
 **Instructor:** Chenhao Tan, Department of Computer Science  
 **Title:**  
 **Abstract:**  
+**Comment:**
 🔗 [💻 Code] 🔗 [📄 Report]
 
 ---
@@ -14,6 +15,7 @@
 **Instructor:** Victor Veitch, Department of Statistics  
 **Title:**  
 **Abstract:**  
+**Comment:**
 🔗 [💻 Code] 🔗 [📄 Report]
 
 ---
@@ -22,7 +24,7 @@
 **Instructor:** Rick Stevens, Department of Computer Science  
 **Title:**  
 **Abstract:**  
-🔗 [🩻 Poster] 🔗 [💻 Code] 🔗 [📄 Report]
+🔗 [🩻 Poster] 🔗 [💻 Code] 🔗 [📄 Report] 🔗 [📝 Assignments]
 
 ---
 
