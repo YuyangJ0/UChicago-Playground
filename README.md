@@ -1,4 +1,5 @@
 <h1 align="center">🎓 Course Playground at UChicago (2023–2025)</h1>
+<p align="center"><em>"Partial, Efforts and Unsatisfactory"</em></p>
 
 ### 📋 Coding-intensive Course Summary
 
