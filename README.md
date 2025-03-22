@@ -6,7 +6,7 @@
 
 | Course Number         | Course Name                                 | Keywords                                      | Type                 |
 |-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
-| CMSC 35401            | Human-Centered AI                           | Human-AI Interaction, Report, Code             | Project Course       |
+| CMSC 35401            | [Human-Centered AI](#human-centered-ai)                           | Human-AI Interaction, Report, Code             | Project Course       |
 | DATA 37784            | Representation Learning in Machine Learning| Embedding, Latent Representation, Report, Code| Project Course       |
 | CMSC 35200            | Deep Learning Systems                       | System Design, Poster, Code, Report            | Project Course       |
 | BUSN 32200/32810 (TA) | Artificial Intelligence                     | Teaching Assistant, Reading Materials          | TA Position          |
@@ -16,53 +16,53 @@
 
 
 ## Human-Centered AI  
+🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35401/CMSC_35401_Final_report.pdf) 🔗 [💻 Code] 
 **Instructor:** Chenhao Tan, Department of Computer Science  
 **Title:**  
 **Abstract:**  
 **Comment:**
 
-🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35401/CMSC_35401_Final_report.pdf) 🔗 [💻 Code] 
-
 
 
 ## Representation Learning in Machine Learning  
+🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/DATA_37784/report.pdf) 🔗 [💻 Code]
 **Instructor:** Victor Veitch, Department of Statistics  
 **Title:**  
 **Abstract:**  
 **Comment:**
 
-🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/DATA_37784/report.pdf) 🔗 [💻 Code] 
+
 
 
 
 ## Deep Learning Systems  
+🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/Evaluator_report_20241212.pdf) 🔗 [💻 Code]
 **Instructor:** Rick Stevens, Department of Computer Science  
 **Title:**  
 **Abstract:**  
-🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/Evaluator_report_20241212.pdf) 🔗 [💻 Code]
 
 
 
-## (TA) Artificial Intelligence  
+## (TA) Artificial Intelligence 
+🔗 [📚 Reading Materials](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200) 
 **Instructor:** Dacheng Xiu, Booth School of Business  
 **Comment:**  
-🔗 [📚 Reading Materials](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200)
 
 
 
 ## Machine Learning in Biology and Medicine  
+🔗 [📝 Assignments]
 **Instructor:** Robert Grossman, Departments of Medicine & Computer Science  
 **Skill Sets:**  
-🔗 [📝 Assignments]
 
 
 ## Introduction to Causal Inference  
+🔗 [📝 Assignments]
 **Instructor:** Guanglei Hong, Department of Comparative Human Development  
 **Skill Sets:**  
-🔗 [📝 Assignments]
 
 
 ## Introduction to High Performance Computing (HPC)  
+🔗 [📝 Assignments]
 **Instructor:** Chanaka Liyanaarachchi, Department of Mathematics  
 **Skill Sets:**  
-🔗 [📝 Assignments]
