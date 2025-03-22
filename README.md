@@ -11,7 +11,7 @@
 | DATA 37784            | [Representation Learning in Machine Learning](#representation-learning-in-machine-learning)| Model Editing, Causal Representation Learning| Toy poject (Interpretability)      |
 | CMSC 35440            | [Machine Learning in Biology and Medicine](#machine-learning-in-biology-and-medicine)                  |        | Coding Assignments (Python)       |
 | STAT 31900            | [Introduction to Causal Inference](#introduction-to-causal-inference)            |         | Coding Assignments (R)        |
-| FINM 32950            | [Intro to High Performance Computing (HPC)](#introduction-to-high-performance-computing-hpc)   |              | Coding Assignments (C++)       |
+| FINM 32950            | [Introduction to High Performance Computing (HPC)](#introduction-to-high-performance-computing-hpc)   |              | Coding Assignments (C++)       |
 
 ---
 
