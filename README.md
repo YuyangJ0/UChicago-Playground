@@ -67,3 +67,11 @@
 
 - **Instructor:** Chanaka Liyanaarachchi, Department of Mathematics  
 - **Skill Sets:**  
+
+
+## 📄 License & Attribution
+
+© 2025 Yuyang Jiang. All rights reserved.
+
+This repository contains original work. Unauthorized copying, reuse, or distribution is strictly prohibited. If you wish to reference or use this material, please contact me at kjiang4work@gmail.com.
+
