@@ -1,4 +1,4 @@
-# 🎓 Course Playground at UChicago (2023–2025)
+<p align="center">🎓 Course Playground at UChicago (2023–2025)</p>
 
 ---
 
@@ -31,7 +31,7 @@
 ## (TA) BUSN 32200/32810 – Artificial Intelligence  
 **Instructor:** Dacheng Xiu, Booth School of Business  
 **Comment:**  
-🔗 [📚 Reading Materials]
+🔗 [📚 Reading Materials](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200)
 
 
 
