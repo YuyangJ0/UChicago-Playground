@@ -1,6 +1,6 @@
 <h1 align="center">🎓 Course Playground at UChicago (2023–2025)</h1>
 
-### 📋 Course Summary
+### 📋 Coding-intensive Course Summary
 
 | Course Number         | Course Name                                 | Keywords                                      | Output                 |
 |-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
