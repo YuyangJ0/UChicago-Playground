@@ -22,7 +22,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 ---
 
 ## (TA) Artificial Intelligence
-🔗 [📚 Reading Materials](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200) 
+🔗 [📚 My Reading List](https://github.com/YuyangJ0/UChicago-Playground/tree/main/BUSN_32200) 
 
 - **Instructor:** Dacheng Xiu, Booth School of Business  
 - **Timeline:** 2023 Summer (Volunteer), 2024 Summer (TA), 2025 Winter (TA)
