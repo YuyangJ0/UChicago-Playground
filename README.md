@@ -30,7 +30,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 
 
 ## Deep Learning Systems  
-🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/Evaluator_report_20241212.pdf) 🔗 [💻 Code]
+🔗 [🩻 Poster](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/poster_24x36.pdf) 🔗 [📄 Report](https://github.com/YuyangJ0/UChicago-Playground/blob/main/CMSC_35200/Evaluator_report_20241212.pdf) 🔗 [💻 Code](https://github.com/YuyangJ0/UChicago-Playground/tree/main/CMSC_35200/code)
 
 - **Instructor:** Rick Stevens, Department of Computer Science 
 - **Timeline:** 2024 Autumn 
