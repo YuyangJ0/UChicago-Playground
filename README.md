@@ -12,7 +12,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 | Course Number         | Course Name                                 | Keywords                                      | Output                 |
 |-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
 | BUSN 32200/32810 | [Artificial Intelligence](#ta-artificial-intelligence)                     | Comprehensive Survey of AI: From Academia to Industry to Society          | TA (Creating Course Materials)          |
-| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    | System, Sparsification, Inference, Evaluation            | Pilot Project (Clinical NLP)       |
+| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    | Systems, Sparsification, Inference (Ollama, vLLM), Evaluation            | Pilot Project (Clinical NLP)       |
 | CMSC 35401            | [Human-Centered AI](#human-centered-ai)                           | Alignment, Weak-to-Strong Generalization             | Toy Project (Financial NLP)       |
 | DATA 37784            | [Representation Learning in Machine Learning](#representation-learning-in-machine-learning)| Causal Representation Learning, Model Editing| Toy poject (Interpretability)      |
 | CMSC 35440            | [Machine Learning in Biology and Medicine](#machine-learning-in-biology-and-medicine)                  |    -    | Coding Assignments (Python)       |
@@ -63,15 +63,15 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 🔗 [📝 Assignments](https://github.com/YuyangJ0/UChicago-Playground/tree/main/CMSC_35440)
 
 - **Instructor:** Robert Grossman, Departments of Medicine & Computer Science  
-- **Skill Sets:** Clinical NLP (Attention, Transformer, LLM, RAG)
+- **Skill Sets:** Clinical NLP (Embeddings, Attention, Transformer, LLM, RAG, Agents)
 - **Status:** A 💯
 
 
 ## Introduction to Causal Inference  
-🔗 [📝 Assignments]
+🔗 [📝 Assignments](https://github.com/YuyangJ0/UChicago-Playground/tree/main/STAT_31900)
 
 - **Instructor:** Guanglei Hong, Department of Comparative Human Development  
-- **Skill Sets:**  
+- **Skill Sets:**  Causal Inference (Experimental Designs, Propensity Score-Based Methods (IPTW, MMWS), Instrumental Variable (IV) Method, Regression Discontinuity Design (RDD), Difference-in-Differences Analysis)
 - **Status:** A 💯
 
 
@@ -79,7 +79,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 🔗 [📝 Assignments]
 
 - **Instructor:** Chanaka Liyanaarachchi, Department of Mathematics  
-- **Skill Sets:**  
+- **Skill Sets:**  Parallel and accelerator computing (Threads, OpenMP, Intel oneAPI, CUDA (GPGPU), advanced Python techniques), Pattern-based design for concurrency and parallelism, Linux Systems
 - **Status:** On-going
 
 
