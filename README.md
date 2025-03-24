@@ -60,10 +60,10 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 
 
 ## Machine Learning in Biology and Medicine  
-🔗 [📝 Assignments]
+🔗 [📝 Assignments](https://github.com/YuyangJ0/UChicago-Playground/tree/main/CMSC_35440)
 
 - **Instructor:** Robert Grossman, Departments of Medicine & Computer Science  
-- **Skill Sets:**  
+- **Skill Sets:** Clinical NLP (Attention, Transformer, LLM, RAG)
 - **Status:** A 💯
 
 
