@@ -46,7 +46,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 - **Timeline:** 2024 Spring 
 - **Title:** Weak-to-Strong Generalization on Financial News Summarization
 - **Abstract:** In this project, we investigate the applicability of the weak-to-strong generalization framework in the context of financial news summarization. We constructed a dataset of 2,000 financial news records and assessed the performance of OpenAI's framework from lexical and pragmatic viewpoints. Our findings indicate that: (1) the weak-to-strong generalization does not hold in the context of financial news summarization for the model classes tested; (2) while the summarization models like BART series more closely align with the ground truth compared to the text generation model LLaMA-1, they are less effective in producing financially informative summaries.
-- **Comment:** This toy project tests OpenAI's *Weak-to-Strong Generalization* framework on a domain-specific task-financial news summarization.
+- **Comment:** This toy project tests OpenAI's [*Weak-to-Strong Generalization*](https://openai.com/index/weak-to-strong-generalization/) framework on a domain-specific task-financial news summarization.
 
 
 ## Representation Learning in Machine Learning  
@@ -56,7 +56,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 - **Timeline:** 2024 Spring 
 - **Title:** Locating Domain-specific Facts in Generative Pre-training Transformer (GPT)
 - **Abstract:** This proposal explores two key questions: (1) How can we refine the definition of "factual" associations by distinguishing domain-specific facts, and does the location of such knowledge within GPT vary accordingly? (2) While fine-tuning is commonly used to develop domain-specific models, how does it compare to domain-specific model editing in terms of effectiveness and outcomes? (the answer for the second one is a direct sad "NO" when I discussed this with professor 😔)
-- **Comment:** This toy project was inspired by my presented paper, *Locating and Editing Factual Associations in GPT*, on the course. The paper introduces an interesting approach using **Causal Tracing** to identify neurons that store factual associations. Based on location findings, the authors proposed the **Rank-One Model Editing (ROME)** method to directly edit the model's memory of specific facts.
+- **Comment:** This toy project was inspired by my presented paper, [*Locating and Editing Factual Associations in GPT*](https://rome.baulab.info/), on the course. The paper introduces an interesting approach using **Causal Tracing** to identify neurons that store factual associations. Based on location findings, the authors proposed the **Rank-One Model Editing (ROME)** method to directly edit the model's memory of specific facts.
 
 
 ## Machine Learning in Biology and Medicine  
