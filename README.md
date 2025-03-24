@@ -12,7 +12,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 | Course Number         | Course Name                                 | Keywords                                      | Output                 |
 |-----------------------|---------------------------------------------|-----------------------------------------------|----------------------|
 | BUSN 32200/32810 | [Artificial Intelligence](#ta-artificial-intelligence)                     | Comprehensive Survey of AI: From Academia to Industry to Society          | TA (Creating Course Materials)          |
-| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    | System            | Pilot Project (Clinical NLP)       |
+| CMSC 35200            | [Deep Learning Systems](#deep-learning-systems)                    | System, Sparsification, Inference, Evaluation            | Pilot Project (Clinical NLP)       |
 | CMSC 35401            | [Human-Centered AI](#human-centered-ai)                           | Alignment, Weak-to-Strong Generalization             | Toy Project (Financial NLP)       |
 | DATA 37784            | [Representation Learning in Machine Learning](#representation-learning-in-machine-learning)| Causal Representation Learning, Model Editing| Toy poject (Interpretability)      |
 | CMSC 35440            | [Machine Learning in Biology and Medicine](#machine-learning-in-biology-and-medicine)                  |    -    | Coding Assignments (Python)       |
