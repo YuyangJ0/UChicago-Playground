@@ -50,7 +50,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 
 
 ## Representation Learning in Machine Learning  
-🔗 [📄 Proposal](https://github.com/YuyangJ0/UChicago-Playground/blob/main/DATA_37784/report.pdf) 🔗 [💻 Code]
+🔗 [📄 Proposal](https://github.com/YuyangJ0/UChicago-Playground/blob/main/DATA_37784/report.pdf) 🔗 [💻 Code](https://github.com/YuyangJ0/UChicago-Playground/tree/main/DATA_37784/code)
 
 - **Instructor:** Victor Veitch, Department of Statistics  
 - **Timeline:** 2024 Spring 
