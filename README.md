@@ -36,7 +36,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 - **Timeline:** 2024 Autumn 
 - **Title:** Exploring the Potential of LLMs as Radiology Report Evaluator 
 - **Abstract:** The rise of large language models (LLMs) has opened new possibilities in medical AI, particularly in evaluating radiology reports. This study explores the potential of LLMs as radiology report evaluators. Current evaluation frameworks for radiology report generation are often shallow and limited, leading to inconclusive results about AI systems' capabilities. To address this, we propose a comprehensive pipeline for evaluating generated reports using LLMs, grounded in tasks such as label extraction and clarity scoring. Our experiments demonstrate that LLMs consistently outperform state-of-the-art (SOTA) labelers in labeling accuracy and show promise in clarity evaluation, particularly when leveraging agentic collaboration like majority voting. However, challenges remain, including mixed results with prompt engineering strategies, the limitations of multi-step prompting, and failure to fully align with radiologists' preferences for filtering more readable reports. This work represents a step forward in developing a robust, LLM-based evaluation framework, ultimately aimed at enhancing the quality and reliability of radiology report generation pipelines.
-- **Comment:** This is a pilot project contributing to my second publication (coming soon in May 2025!).
+- **Comment:** This pilot project led to my upcoming second publication (coming very soon in May 2025!), along with the full code and a curated dataset. 💪❤️‍🔥
 
 
 ## Human-Centered AI  
