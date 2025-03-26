@@ -1,11 +1,11 @@
 <h1 align="center">🎓 UChicago Playground (2023-2025)</h1>
 <p align="center"><em>"Efforts, Partial and Unsatisfactory"</em> at Ryerson Floor 2, UChicago</p>
 
-My economics professor in college once told me that UChicago is a sacred place for academic pursuit. Later, my first advisor at UChicago said he hoped that something of UChicago would stay with me. Looking back on my three-year journey—one year as an undergrad RA at Chicago Booth and two years of master's study—this has been an intensive but deeply rewarding experience. It transformed me from a traditional data-driven machine learning researcher into a human-centered AI practitioner.
+My economics professor in college once told me that UChicago is a sacred place for academic pursuit. Later, my first advisor at UChicago said he hoped that something of UChicago would stay with me. Looking back on my three-year journey—one year as an undergrad RA at Chicago Booth and two years of master's study—this has been an intensive but deeply rewarding experience. It transformed me from a traditional data-driven machine learning researcher into a human-centered NLP practitioner.
 
 At this turning point, I want to take a moment to reflect and summarize my experiences in this repository. Beyond formal publications, many projects here—though small or toyish—capture some key “aha” moments throughout this journey.
 
-Due to time constraints, I've mainly included structured outputs (e.g., reports, code, posters) related to AI topics. But I've also gained so much solid training in proof-based statistics during my first-year master study and hope to eventually convert my handwritten notes into LaTeX versions sometime—though I still enjoy the charm of writing by hand! 🤡
+Due to time constraints, I've mainly included **structured outputs (e.g., reports, code, posters) related to NLP topics**. But I've also gained so much solid training in **proof-based statistics and optimization theory** and hope to eventually convert my handwritten notes into LaTeX versions sometime—though I still enjoy the charm of writing by hand! 🤡
 
 ### 📋 Coding-intensive Course Summary
 
@@ -46,7 +46,7 @@ Due to time constraints, I've mainly included structured outputs (e.g., reports,
 - **Timeline:** 2024 Spring 
 - **Title:** Weak-to-Strong Generalization on Financial News Summarization
 - **Abstract:** In this project, we investigate the applicability of the weak-to-strong generalization framework in the context of financial news summarization. We constructed a dataset of 2,000 financial news records and assessed the performance of OpenAI's framework from lexical and pragmatic viewpoints. Our findings indicate that: (1) the weak-to-strong generalization does not hold in the context of financial news summarization for the model classes tested; (2) while the summarization models like BART series more closely align with the ground truth compared to the text generation model LLaMA-1, they are less effective in producing financially informative summaries.
-- **Comment:** This toy project tests OpenAI's [*Weak-to-Strong Generalization*](https://openai.com/index/weak-to-strong-generalization/) framework on a domain-specific task-financial news summarization.
+- **Comment:** This toy project tests OpenAI's [*Weak-to-Strong Generalization*](https://openai.com/index/weak-to-strong-generalization/) framework on a domain-specific task-**Financial News Summarization**.
 
 
 ## Representation Learning in Machine Learning  
