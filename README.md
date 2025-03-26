@@ -26,7 +26,8 @@ Due to time constraints, I've mainly included **structured outputs (e.g., report
 
 - **Instructor:** Dacheng Xiu, Booth School of Business  
 - **Timeline:** 2023 Summer (Volunteer), 2024 Summer (TA), 2025 Winter (TA)
-- **Comment:**  
+- **Comment:** I have been honored to be part of Professor Dacheng Xiu's teaching assistant team since 2023, contributing to the establishment of the first Artificial Intelligence course at Chicago Booth and supporting its growth from an initial concept into a comprehensive 8-lecture series. My initial project in 2023 involved **creating a cartoon-style text-to-video syllabus**. For this, I utilized OpenAI’s Text-to-Speech (TTS) model to convert text into speech audio, trained a so-vits-svc model to adapt this synthesized audio to closely match the instructor’s voice, and produced animated visuals of the instructor using Midjourney and D-ID for synchronized audio-video presentations. My primary role has since focused on **developing extensive course materials** for six new lectures. For the summer course, I created business-oriented case studies and conducted thorough literature reviews for two new lectures: Generative AI and the Social Impact of AI. In the winter course, I analyzed and summarized key model examples, training pipelines, and underlying mechanisms drawn from academic research and technical reports for four additional lectures: Dataification, Large Language Models, Reasoning Models, and Vision-Language Models.
+
 
 
 ## Deep Learning Systems  
